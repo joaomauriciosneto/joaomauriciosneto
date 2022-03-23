@@ -1,55 +1,36 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4E22AQFZqVf2gqb70A/feedshare-shrink_800/0/1647301764691?e=1649894400&v=beta&t=_nDwo8gRFI4uVuhiVA_Z4vhM9S2xpXRVENe6m7hptwo" width="300px" max-width="300px" width="300px" align="right" alt="logo">
-
 <p align="left"> 
- 🖖 Hi, my name is João Maurício. I'm a student of <strong>Web Developer -Full Stack</strong>.
+ 🖖 Hi, my name is João Maurício. I'm a student of <strong>Web Developer - Full Stack</strong> in Growdev.
 </p>
 
 <p>
  :dart: Therefore, I am looking for an opportunity in the web development area.
  </p>
-
-<p>
- :punch: In my spare time, I like to practice sports like jiu-jitsu and workout.
- </p>
  
  <p>
- :computer: I'm in the process of training for Web Developer - Full Stack at Growdev.
- </p>
- 
- <p>
- :loud_sound: As I have a degree in Accounting Sciences, I had the opportunity to work with the most 
- diverse types of people. I learned to improve my sense of organization and time management. Then I graduated
- in Physical Education and worked in several academies, where I had the huge opportunity to have the coordination
- position, improving even more my teamwork and attention to people.
+ :ledger: I'm participating in some bootcamps, including HTML, CSS e JS.
  </p>
 
-<p align="left">
- ☕ Skills: <strong>HTML, CSS, JavaScript.</strong>
-</p>
-
-<p>
- :floppy_disk: Although I'm still learning, I'm really enjoying JavaScript.
- </p>
-
-<p align="left">
-  💼 Development tools: <strong>VS Code, Git and GitHub.</strong>
-</p>
-
-<p>
- :ledger: I'm currently in the Front-end module, provided by Growdev. And besides,
- I'm participating in some bootcamps, including HTML Web Developer.
- </p>
-
-
-<br>
-
-<p align="left">
-  <a href="https://www.instagram.com/joaomauriciopersonal/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/joaomauriciopersonal"/>
-  </a>
+<div align="center">
+  <a href="https://github.com/joaomauriciosneto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomauriciosneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomauriciosneto&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
   
-  <a href="https://www.linkedin.com/in/joaomauriciowebdev/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/joaomauriciowebdev"/>
-  </a>
-
-</p>
+##
+ 
+<div>
+  <a href="https://instagram.com/joaomauriciopersonal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="mailto:joaomauricio1975@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://twitter.com/jmauriciosneto" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joaomauriciowebdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
+ 
+ ![Snake animation](https://github.com/joaomauriciosneto/joaomauriciosneto/blob/output/github-contribution-grid-snake.svg)
+ 
