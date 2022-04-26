@@ -9,6 +9,30 @@
  <p>
  :ledger: I'm participating in some bootcamps, including HTML, CSS e JS.
  </p>
+ 
+ <details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
+const joaomauriciosneto = {
+    personal: {
+        fullName: 'João Maurício dos Santos Neto',
+        birthDate: '1975-11-09',
+        pronouns: 'he' | 'him',
+        interests: ['music', 'games', 'language learning', 'sports', 'movies', 'series'],
+    },
+        full_stack_student: {
+            skills: {
+                JS: 'Javascript',
+                HTML: 'HTML5',
+                CSS: 'sass',
+            }
+         },
+}
+```
+  </div>
+</details>
 
 <div align="center">
   <a href="https://github.com/joaomauriciosneto">
