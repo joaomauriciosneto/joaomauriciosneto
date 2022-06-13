@@ -26,7 +26,9 @@ const joaomauriciosneto = {
             skills: {
                 JS: 'Javascript',
                 HTML: 'HTML5',
-                CSS: 'sass',
+                CSS: 'CSS3',
+                TS: 'TypeScript',
+                React: 'ReactJS',
             }
          },
 }
