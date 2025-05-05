@@ -1,8 +1,16 @@
-# 🚀 Portfólio Profissional – João Maurício
+## 💼 Sobre mim
+Bem-vindo ao meu portfólio! 👋
 
-Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção prática e organizada dos projetos que estou desenvolvendo como **futuro Consultor SAP MM com foco em dados e Power BI**.
+Sou João Maurício, profissional multidisciplinar em transição para a área de tecnologia, com foco em consultoria SAP MM e análise de dados com Power BI.
 
-Sou formado em Educação Física e, com mais de 10 anos de experiência com pessoas, estou agora 100% dedicado à transição para a área de tecnologia, especialmente no universo SAP.
+Graduado em Ciências Contábeis e Educação Física, trago uma bagagem sólida de mais de 10 anos na área fiscal, lidando com processos, legislações e gestão fiscal. Paralelamente, atuei também por mais de 10 anos na área de Educação Física, alcançando cargos de liderança e coordenação, sempre com foco em pessoas, performance e resultados.
+
+Atualmente, estou 100% dedicado à construção de uma nova jornada profissional em tecnologia, combinando minha experiência com processos e dados à aprendizagem contínua em sistemas ERP, modelagem de dados e automação.
+
+---
+
+## 🎯 Objetivo
+Atuar como Consultor SAP MM Júnior, com visão integrada de negócios, dados e processos logísticos, e continuar evoluindo em projetos de Business Intelligence.
 
 ---
 
