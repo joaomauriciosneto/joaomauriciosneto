@@ -34,7 +34,7 @@ Este portfólio está em constante expansão. A cada novo estudo, projeto ou cas
 
 📬 **Contato**:  
 - [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- Email: joaomauricio@email.com  
+- Email: joaomauricio1975@gmail.com 
 
 🔧 *Feito com dedicação, estudo e foco no futuro.*
 
