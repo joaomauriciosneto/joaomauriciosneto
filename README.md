@@ -29,7 +29,7 @@ Processos modelados, testes unitários e integrados, roteiros de entrada de merc
 
 . Modelagem (TO-BE)
 
-📁 [`/fiscal-sap`](./fiscal-sap)
+📁 [`/modelagem`](./modelagem)
 
 ### 🏅 Certificados
 Comprovação dos cursos realizados nas trilhas de Power BI, SAP e Fiscal.  
