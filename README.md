@@ -24,8 +24,9 @@ Dashboards reais e interativos aplicados a cenários de locação de veículos, 
 Processos modelados, testes unitários e integrados, roteiros de entrada de mercadoria, requisições e divergências.  
 📁 [`/sap-mm`](./sap-mm)
 
-### 📄 Aplicações Fiscais no SAP
-Simulações de CFOP, validações fiscais e roteiros de integração com dados fiscais e XMLs.  
+### 📄 Processos modelados em BPMN (representação visual padronizada)
+✅ Modelagem (AS-IS)
+✅ Modelagem (TO-BE)
 📁 [`/fiscal-sap`](./fiscal-sap)
 
 ### 🏅 Certificados
