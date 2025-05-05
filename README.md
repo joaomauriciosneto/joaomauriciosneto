@@ -34,7 +34,7 @@ Este portfólio está em constante expansão. A cada novo estudo, projeto ou cas
 
 📬 **Contato**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Maurício-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaomauriciowebdev)
-[![Email](https://img.shields.io/badge/Email-Contato%20Direto-red?style=for-the-badge&logo=gmail)](mailto:joaomauricio@email.com)
+<img src="https://img.icons8.com/color/24/000000/gmail--v1.png" width="20"/>: joaomauricio1975@gmail.com
 
 🔧 *Feito com dedicação, estudo e foco no futuro.*
 
