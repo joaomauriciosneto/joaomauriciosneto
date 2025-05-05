@@ -44,7 +44,7 @@ Este portfólio está em constante expansão. A cada novo estudo, projeto ou cas
 ---
 
 📬 **Contato**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Maurício-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaomauricio-sapmm-powerbi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Maurício-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaomauriciosneto)
 
 E-mail: joaomauricio1975@gmail.com
 
