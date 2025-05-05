@@ -37,5 +37,6 @@ Este portfólio está em constante expansão. A cada novo estudo, projeto ou cas
 
 E-mail: joaomauricio1975@gmail.com
 
+
 🔧 *Feito com dedicação, estudo e foco no futuro.*
 
