@@ -4,7 +4,6 @@ Este diretório é dedicado aos projetos e estudos práticos relacionados ao mó
 
 📌 Conteúdo previsto:
 - Simulações de processos de compras, entradas de mercadorias e faturas;
-- Documentação de processos AS-IS e TO-BE;
 - Roteiros de testes (unitários e integrados);
 - Casos de uso com visão fiscal e logística.
 
