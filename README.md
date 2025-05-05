@@ -18,7 +18,7 @@ Atuar como Consultor SAP MM Júnior, com visão integrada de negócios, dados e 
 
 ### 📊 Dashboards Power BI
 Dashboards reais e interativos aplicados a cenários de locação de veículos, análise de clientes, previsões e mais.  
-📁 [`/dashboards-powerbi`](./dashboards-powerbi)
+📁 [`/dashboards-powerbi`](./power-bi)
 
 ### 🧠 Projetos SAP MM
 Processos modelados, testes unitários e integrados, roteiros de entrada de mercadoria, requisições e divergências.  
