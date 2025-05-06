@@ -1,5 +1,9 @@
 # 🚗 Dashboard de Controle de Locação de Veículos
 
+![Power BI](https://img.shields.io/badge/Feito%20com-Power%20BI-F2C811?logo=power-bi&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Licença](https://img.shields.io/badge/Licença-MIT-blue)
+
 Este dashboard tem como foco principal o controle operacional e financeiro da locação de veículos, oferecendo uma visão detalhada sobre clientes, veículos, faturamento e projeções futuras.
 
 ## 📌 Estrutura e indicadores:
