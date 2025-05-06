@@ -26,7 +26,7 @@ Dashboard focado na **gestão de Recursos Humanos**, com indicadores sobre:
 
 ---
 
-### 📁 [`dashboard-locacao-veiculos`](./dashboard-locacao-veiculos)
+### 📁 [`dashboard-locacao-veiculos`](./locacao-veiculos)
 
 Dashboard voltado ao **controle de locação de veículos**, com:
 
@@ -36,11 +36,11 @@ Dashboard voltado ao **controle de locação de veículos**, com:
 - Projeção futura (clientes, faturamento e ticket médio)
 - Cadastro e status dos clientes
 
-🔎 [Veja o README completo »](./dashboard-locacao-veiculos/README.md)
+🔎 [Veja o README completo »](./locacao-veiculos/README.md)
 
 ---
 
-### 📁 [`dashboard-relatorio-vendas`](./dashboard-relatorio-vendas)
+### 📁 [`dashboard-relatorio-vendas`](./relatorio-vendas)
 
 Dashboard comercial com foco em **análise de vendas**, incluindo:
 
@@ -50,7 +50,7 @@ Dashboard comercial com foco em **análise de vendas**, incluindo:
 - Faturamento nos últimos 10 dias
 - Resumo geral de vendas
 
-🔎 [Veja o README completo »](./dashboard-relatorio-vendas/README.md)
+🔎 [Veja o README completo »](./relatorio-vendas/README.md)
 
 ---
 
