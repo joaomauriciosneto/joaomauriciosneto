@@ -11,7 +11,7 @@ Todos os projetos foram construídos utilizando **medidas DAX, expressões perso
 
 ---
 
-### 📁 [`dashboard-rh`](./dashboard-rh)
+### 📁 [`dashboard-rh`](./rh)
 
 Dashboard focado na **gestão de Recursos Humanos**, com indicadores sobre:
 
