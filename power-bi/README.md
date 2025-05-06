@@ -2,7 +2,7 @@
 
 Este diretório reúne projetos de visualização e análise de dados desenvolvidos com **Power BI**.
 
-📌 Aqui você encontrará futuramente:
+📌 Aqui você encontra:
 
 - Dashboards interativos com KPIs e insights acionáveis;
 - Análises exploratórias de dados públicos e empresariais;
