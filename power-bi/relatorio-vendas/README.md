@@ -1,41 +1,30 @@
-# 🚗 Dashboard de Controle de Locação de Veículos
+# 💼 Dashboard de Relatório de Vendas
 
 ![Power BI](https://img.shields.io/badge/Feito%20com-Power%20BI-F2C811?logo=power-bi&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Licença](https://img.shields.io/badge/Licença-MIT-blue)
 
-Este dashboard tem como foco principal o controle operacional e financeiro da locação de veículos, oferecendo uma visão detalhada sobre clientes, veículos, faturamento e projeções futuras.
+Este dashboard foi desenvolvido para monitorar o desempenho comercial da empresa, com foco em metas, faturamento, performance de vendedores e tendências de venda ao longo dos anos.
 
 ## 📌 Estrutura e indicadores:
 
 ### 📄 Capa
-- Visão geral do projeto
+- Apresentação do projeto
 
-### 📊 Aba: Locação de Veículos
-- 👥 Quantidade de clientes
-- 🚙 Média de quilômetros percorridos
-- 💵 Faturamento total
-- 📅 Faturamento por ano
-- 📊 Porcentagem de faturamento por ano
-- 📆 Faturamento por dia
-- 🗓️ Ano dos veículos
-- 🚗 Modelo dos veículos
-- 🟢🛑 Status dos clientes (ativos ou inativos)
-
-### 🧾 Aba: Clientes
-- 🔍 Controle de cadastro (cadastrados ou não)
-- 🚘 Controle de veículos por categoria: Luxo e Light
-
-### 📈 Aba: Previsão
-- 📊 Projeção de faturamento para o próximo ano
-- 🎯 Ticket médio
-- 👥 Quantidade projetada de clientes
+### 📊 Aba: Relatório de Vendas
+- 🎯 Metas dos anos 2017, 2018 e 2019  
+- 🧑‍💼 Vendedores e respectivos valores de venda  
+- 💰 Faturamento geral  
+- 📆 Faturamento dos últimos 10 dias  
+- 📈 Faturamento anual  
+- 📋 Resumo de vendas consolidado  
 
 ## 🛠️ Ferramentas utilizadas:
 
-- Power BI
-- DAX (Data Analysis Expressions)
-- Medidas personalizadas
-- Variáveis DAX
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Medidas personalizadas  
+- Variáveis DAX  
 
-Todos os cálculos, projeções e indicadores foram desenvolvidos com uso intensivo de medidas, expressões DAX e variáveis.
+Todos os gráficos e análises foram construídos com expressões DAX, uso de medidas e variáveis para garantir precisão e interatividade.
+
