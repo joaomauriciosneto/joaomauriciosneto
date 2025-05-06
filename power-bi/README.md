@@ -22,7 +22,7 @@ Dashboard focado na **gestão de Recursos Humanos**, com indicadores sobre:
 - Faltas por filial
 - Contratações e demissões
 
-🔎 [Veja o README completo »](./dashboard-rh/README.md)
+🔎 [Veja o README completo »](./rh/README.md)
 
 ---
 
