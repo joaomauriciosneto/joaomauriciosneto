@@ -41,7 +41,6 @@ Demonstrar o processo de **criação de dados mestres de fornecedores**, etapa e
 ## 🖼️ Arquivos Inclusos
 
 - `tela_xk01_exemplo.png` – Screenshot real do formulário de cadastro
-- `formulario_exemplo.pdf` – Exemplo preenchido de dados de fornecedor
 - `README.md` – Este arquivo de explicação
 
 ---
@@ -62,5 +61,20 @@ Demonstrar o processo de **criação de dados mestres de fornecedores**, etapa e
 
 ---
 
-## 📂 Estrutura Recomendada para Repositório
+## 🎯 Propósito do Projeto
+
+Este projeto faz parte do meu portfólio de aprendizado e prática como **futuro consultor SAP MM**, documentando etapas fundamentais do processo de compras e gestão de fornecedores.
+
+---
+
+## 📬 Contato
+
+**João Maurício**  
+📧 joaomauricio@email.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/joaomauriciosneto)
+
+---
+
+> *Este repositório é de uso educacional e não utiliza dados reais ou confidenciais de empresas.*
+
 
