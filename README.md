@@ -1,7 +1,7 @@
 ## 💼 Sobre mim
 Bem-vindo ao meu portfólio! 👋
 
-Sou João Maurício, profissional multidisciplinar migrando para a área de tecnologia, com na área fiscal / contábil e como Key User SAP MM.
+Sou João Maurício, profissional multidisciplinar migrando para a área de tecnologia com foco na área fiscal / contábil e como Key User SAP MM.
 
 Graduado em Ciências Contábeis e Educação Física, trago uma bagagem sólida de mais de 10 anos na área fiscal, lidando com processos, legislações e gestão fiscal. Paralelamente, atuei também por mais de 10 anos na área de Educação Física, alcançando cargos de liderança e coordenação, sempre com foco em pessoas, performance e resultados.
 
