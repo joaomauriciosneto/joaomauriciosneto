@@ -1,7 +1,7 @@
 ## 💼 Sobre mim
 Bem-vindo ao meu portfólio! 👋
 
-Sou João Maurício, profissional multidisciplinar migrando para a área de tecnologia, com foco em consultoria SAP MM e análise de dados com Power BI.
+Sou João Maurício, profissional multidisciplinar migrando para a área de tecnologia, com na área fiscal / contábil e como Key User SAP MM.
 
 Graduado em Ciências Contábeis e Educação Física, trago uma bagagem sólida de mais de 10 anos na área fiscal, lidando com processos, legislações e gestão fiscal. Paralelamente, atuei também por mais de 10 anos na área de Educação Física, alcançando cargos de liderança e coordenação, sempre com foco em pessoas, performance e resultados.
 
@@ -10,7 +10,7 @@ Atualmente, estou 100% dedicado à construção de uma nova jornada profissional
 ---
 
 ## 🎯 Objetivo
-Atuar como Consultor SAP MM Júnior, com visão integrada de negócios, dados e processos logísticos, e continuar evoluindo em projetos de Business Intelligence.
+Atuar na área fiscal / contábil e/ou como Key User SAP MM, com visão integrada de negócios, dados e processos logísticos, e continuar evoluindo em projetos de Business Intelligence.
 
 ---
 
